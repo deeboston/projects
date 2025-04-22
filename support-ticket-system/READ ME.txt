@@ -1,0 +1,72 @@
+===========================================
+✅ SupportSys - Web Support Ticket System
+===========================================
+
+👨‍💻 Project Type: University Midterm – Web Development  
+🧠 Student: [Your Name] – 5th Semester, Systems Engineering  
+📆 Date: April 2025
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌐 ENGLISH
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SupportSys is a modern support ticketing system where users can register, submit issues, and receive responses from admins. It simulates a real IT help desk, fully developed with PHP, MySQL, Bootstrap 5 and responsive design.
+
+🚀 Features:
+- User/Admin login system
+- Ticket submission by category
+- Admin dashboard with replies + status updates
+- Responsive landing page
+- Dark mode toggle
+- Animated counters
+- Image carousels for UI + testimonials
+- FAQ section
+- Floating chat-style help modal
+
+💻 Technologies Used:
+- PHP 8.1
+- MySQL (via HeidiSQL)
+- HTML5 + CSS3 + Bootstrap 5
+- JavaScript + Typed.js
+- Visuals from UnDraw & RandomUser
+
+🎯 Learning Goals Achieved:
+- Dynamic front-end with animation
+- Secure user authentication
+- Database CRUD (tickets, users, responses)
+- Visual polish and modern UX principles
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌐 ESPAÑOL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SupportSys es un sistema moderno de tickets de soporte donde los usuarios pueden registrarse, enviar problemas y recibir respuesta de los administradores. Simula un panel de soporte real, construido 100% con PHP, MySQL y Bootstrap 5.
+
+🚀 Funcionalidades:
+- Sistema de login para usuario/admin
+- Envío de tickets por categoría
+- Panel de administrador con respuesta y cambios de estado
+- Página de inicio responsive
+- Modo oscuro activable
+- Contadores animados
+- Carruseles de imágenes (sistema y testimonios)
+- Sección de preguntas frecuentes (FAQ)
+- Botón flotante de ayuda estilo chat
+
+💻 Tecnologías Utilizadas:
+- PHP 8.1
+- MySQL (con HeidiSQL)
+- HTML5 + CSS3 + Bootstrap 5
+- JavaScript + Typed.js
+- Ilustraciones de UnDraw y RandomUser
+
+🎯 Aprendizajes Clave:
+- Frontend dinámico con animación
+- Sistema de autenticación seguro
+- CRUD en base de datos
+- Diseño visual moderno con buena experiencia de usuario (UX)
+
+📁 Entrega:
+- index.php
+- assets/css/style.css
+- assets/img/ (user images + UI screenshots)
